@@ -1,0 +1,9 @@
+{
+	"name": "adfpipeline-sk",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0532c4c9-3add-4783-b650-c3fdf1207a0d",
+		"tenantId": "ff2d4a17-9833-4e0e-ba0c-1b67364d68e7"
+	}
+}
